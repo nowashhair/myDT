@@ -1,4 +1,4 @@
-module github.com/hugozhu/godingtalk
+module github.com/nowashhair/myDT
 
 go 1.13
 
