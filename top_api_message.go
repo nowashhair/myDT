@@ -4,7 +4,7 @@
  * Direct questions, comments to <ipandtcp@gmail.com>
  */
 
-package godingtalk
+package myDT
 
 import (
 	"encoding/json"

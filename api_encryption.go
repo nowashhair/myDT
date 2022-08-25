@@ -1,4 +1,4 @@
-package godingtalk
+package myDT
 
 //DataMessage 服务端加密、解密消息
 type DataMessage struct {

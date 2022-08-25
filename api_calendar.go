@@ -1,4 +1,4 @@
-package godingtalk
+package myDT
 
 import "time"
 

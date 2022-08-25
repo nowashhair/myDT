@@ -1,5 +1,5 @@
 //普通钉钉用户账号开放相关接口
-package godingtalk
+package myDT
 
 import(
 	"net/url"
